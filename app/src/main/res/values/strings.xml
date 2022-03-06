@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WarFoodSubmission</string>
+    <string name="app_name">WarFood</string>
     <string name="food_name">Food Name</string>
     <string name="food_detail">food detail</string>
     <string name="food_harga">Rp 20000</string>
